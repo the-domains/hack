@@ -1,0 +1,28 @@
+name: hack
+favicon: null
+layout_spectrum: 0.8518905614037067
+typography_spectrum: 0.6447501254733652
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.9844339427072555
+  lightness: 0.28397534089162946
+  saturation: 0.17897713487036526
+  rhythmicContrast: 0.9133061841130257
+purpose: []
